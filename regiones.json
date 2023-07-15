@@ -1,0 +1,130 @@
+[
+    {
+        "model": "acisApi.region",
+        "fields": {
+            "id": "15",
+            "orden": 1,
+            "nom_reg": "Arica y Parinacota"
+        }
+    },
+    {
+        "model": "acisApi.region",
+        "fields": {
+            "id": "1",
+            "orden": 2,
+            "nom_reg": "Tarapacá"
+        }
+    },
+    {
+        "model": "acisApi.region",
+        "fields": {
+            "id": "2",
+            "orden": 3,
+            "nom_reg": "Antofagasta"
+        }
+    },
+    {
+        "model": "acisApi.region",
+        "fields": {
+            "id": "3",
+            "orden": 4,
+            "nom_reg": "Atacama"
+        }
+    },
+    {
+        "model": "acisApi.region",
+        "fields": {
+            "id": "4",
+            "orden": 5,
+            "nom_reg": "Coquimbo"
+        }
+    },
+    {
+        "model": "acisApi.region",
+        "fields": {
+            "id": "5",
+            "orden": 6,
+            "nom_reg": "Valparaíso"
+        }
+    },
+    {
+        "model": "acisApi.region",
+        "fields": {
+            "id": "13",
+            "orden": 7,
+            "nom_reg": "Metropolitana de Santiago"
+        }
+    },
+    {
+        "model": "acisApi.region",
+        "fields": {
+            "id": "6",
+            "orden": 8,
+            "nom_reg": "Libertador Gral. Bernardo O’Higgins"
+        }
+    },
+    {
+        "model": "acisApi.region",
+        "fields": {
+            "id": "7",
+            "orden": 9,
+            "nom_reg": "Maule"
+        }
+    },
+    {
+        "model": "acisApi.region",
+        "fields": {
+            "id": "16",
+            "orden": 10,
+            "nom_reg": "Ñuble"
+        }
+    },
+    {
+        "model": "acisApi.region",
+        "fields": {
+            "id": "8",
+            "orden": 11,
+            "nom_reg": "Biobío"
+        }
+    },
+    {
+        "model": "acisApi.region",
+        "fields": {
+            "id": "9",
+            "orden": 12,
+            "nom_reg": "Araucanía"
+        }
+    },
+    {
+        "model": "acisApi.region",
+        "fields": {
+            "id": "14",
+            "orden": 13,
+            "nom_reg": "Los Ríos"
+        }
+    },
+    {
+        "model": "acisApi.region",
+        "fields": {
+            "id": "10",
+            "orden": 14,
+            "nom_reg": "Los Lagos"
+        }
+    },
+    {
+        "model": "acisApi.region",
+        "fields": {
+            "id": "11",
+            "orden": 15,
+            "nom_reg": "Aisén del Gral. Carlos Ibáñez del Campo"
+        }
+    },
+    {
+        "model": "acisApi.region",
+        "fields": {
+            "id": "12",
+            "orden": 16,
+            "nom_reg": "Magallanes y de la Antártica Chilena"
+        }
+    }
+]

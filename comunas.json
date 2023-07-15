@@ -1,0 +1,2424 @@
+[
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "15",
+            "nom_com": "Arica"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "15",
+            "nom_com": "Camarones"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "15",
+            "nom_com": "General Lagos"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "15",
+            "nom_com": "Putre"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "1",
+            "nom_com": "Alto Hospicio"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "1",
+            "nom_com": "Camiña"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "1",
+            "nom_com": "Colchane"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "1",
+            "nom_com": "Huara"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "1",
+            "nom_com": "Iquique"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "1",
+            "nom_com": "Pica"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "1",
+            "nom_com": "Pozo Almonte"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "2",
+            "nom_com": "Antofagasta"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "2",
+            "nom_com": "Calama"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "2",
+            "nom_com": "María Elena"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "2",
+            "nom_com": "Mejillones"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "2",
+            "nom_com": "Ollagüe"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "2",
+            "nom_com": "San Pedro de Atacama"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "2",
+            "nom_com": "Sierra Gorda"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "2",
+            "nom_com": "Taltal"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "2",
+            "nom_com": "Tocopilla"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "3",
+            "nom_com": "Alto del Carmen"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "3",
+            "nom_com": "Caldera"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "3",
+            "nom_com": "Chañaral"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "3",
+            "nom_com": "Copiapó"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "3",
+            "nom_com": "Diego de Almagro"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "3",
+            "nom_com": "Freirina"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "3",
+            "nom_com": "Huasco"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "3",
+            "nom_com": "Tierra Amarilla"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "3",
+            "nom_com": "Vallenar"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "4",
+            "nom_com": "Andacollo"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "4",
+            "nom_com": "Canela"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "4",
+            "nom_com": "Combarbalá"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "4",
+            "nom_com": "Coquimbo"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "4",
+            "nom_com": "Illapel"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "4",
+            "nom_com": "La Higuera"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "4",
+            "nom_com": "La Serena"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "4",
+            "nom_com": "Los Vilos"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "4",
+            "nom_com": "Monte Patria"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "4",
+            "nom_com": "Ovalle"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "4",
+            "nom_com": "Paiguano"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "4",
+            "nom_com": "Punitaqui"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "4",
+            "nom_com": "Río Hurtado"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "4",
+            "nom_com": "Salamanca"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "4",
+            "nom_com": "Vicuña"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Algarrobo"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Cabildo"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Calera"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Calle Larga"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Cartagena"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Casablanca"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Catemu"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Concón"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "El Quisco"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "El Tabo"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Hijuelas"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Isla de Pascua"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Juan Fernández"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "La Cruz"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "La Ligua"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Limache"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Llaillay"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Los Andes"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Nogales"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Olmué"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Panquehue"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Papudo"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Petorca"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Puchuncaví"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Putaendo"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Quillota"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Quilpué"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Quintero"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Rinconada"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "San Antonio"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "San Esteban"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "San Felipe"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Santa María"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Santo Domingo"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Valparaíso"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Villa Alemana"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Viña del Mar"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "5",
+            "nom_com": "Zapallar"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Alhué"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Buin"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Calera de Tango"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Cerrillos"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Cerro Navia"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Colina"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Conchalí"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Curacaví"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "El Bosque"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "El Monte"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Estación Central"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Huechuraba"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Independencia"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Isla de Maipo"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "La Cisterna"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "La Florida"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "La Granja"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "La Pintana"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "La Reina"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Lampa"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Las Condes"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Lo Barnechea"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Lo Espejo"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Lo Prado"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Macul"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Maipú"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "María Pinto"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Melipilla"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Ñuñoa"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Padre Hurtado"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Paine"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Pedro Aguirre Cerda"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Peñaflor"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Peñalolén"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Pirque"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Providencia"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Pudahuel"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Puente Alto"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Quilicura"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Quinta Normal"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Recoleta"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Renca"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "San Bernardo"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "San Joaquín"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "San José de Maipo"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "San Miguel"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "San Pedro"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "San Ramón"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Santiago"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Talagante"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Tiltil"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "13",
+            "nom_com": "Vitacura"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Chimbarongo"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Chépica"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Codegua"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Coinco"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Coltauco"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Doñihue"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Graneros"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "La Estrella"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Las Cabras"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Litueche"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Lolol"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Machalí"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Malloa"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Marchihue"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Nancagua"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Navidad"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Olivar"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Palmilla"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Paredones"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Peralillo"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Peumo"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Pichidegua"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Pichilemu"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Placilla"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Pumanque"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Quinta de Tilcoco"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Rancagua"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Rengo"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Requínoa"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "San Fernando"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "San Francisco de Mostazal"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "San Vicente de Tagua Tagua"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "6",
+            "nom_com": "Santa Cruz"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "Cauquenes"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "Chanco"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "Colbún"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "Constitución"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "Curepto"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "Curicó"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "Empedrado"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "Hualañé"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "Licantén"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "Linares"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "Longaví"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "Maule"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "Molina"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "Parral"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "Pelarco"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "Pelluhue"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "Pencahue"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "Rauco"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "Retiro"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "Romeral"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "Río Claro"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "Sagrada Familia"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "San Clemente"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "San Javier de Loncomilla"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "San Rafael"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "Talca"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "Teno"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "Vichuquén"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "Villa Alegre"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "7",
+            "nom_com": "Yerbas Buenas"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "16",
+            "nom_com": "Bulnes"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "16",
+            "nom_com": "Chillán Viejo"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "16",
+            "nom_com": "Chillán"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "16",
+            "nom_com": "Cobquecura"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "16",
+            "nom_com": "Coelemu"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "16",
+            "nom_com": "Coihueco"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "16",
+            "nom_com": "El Carmen"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "16",
+            "nom_com": "Ninhue"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "16",
+            "nom_com": "Ñiquén"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "16",
+            "nom_com": "Pemuco"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "16",
+            "nom_com": "Pinto"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "16",
+            "nom_com": "Portezuelo"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "16",
+            "nom_com": "Quillón"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "16",
+            "nom_com": "Quirihue"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "16",
+            "nom_com": "Ránquil"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "16",
+            "nom_com": "San Carlos"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "16",
+            "nom_com": "San Fabián"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "16",
+            "nom_com": "San Ignacio"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "16",
+            "nom_com": "San Nicolás"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "16",
+            "nom_com": "Treguaco"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "16",
+            "nom_com": "Yungay"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Alto Biobío"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Antuco"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Arauco"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Cabrero"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Cañete"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Chiguayante"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Concepción"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Contulmo"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Coronel"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Curanilahue"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Florida"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Hualpén"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Hualqui"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Laja"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Lebu"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Los Álamos"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Los Ángeles"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Lota"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Mulchén"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Nacimiento"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Negrete"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Penco"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Quilaco"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Quilleco"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "San Pedro de la Paz"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "San Rosendo"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Santa Bárbara"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Santa Juana"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Talcahuano"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Tirúa"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Tomé"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Tucapel"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "8",
+            "nom_com": "Yumbel"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Angol"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Carahue"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Cholchol"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Collipulli"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Cunco"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Curacautín"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Curarrehue"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Ercilla"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Freire"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Galvarino"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Gorbea"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Lautaro"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Loncoche"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Lonquimay"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Los Sauces"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Lumaco"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Melipeuco"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Nueva Imperial"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Padre las Casas"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Perquenco"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Pitrufquén"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Pucón"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Purén"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Renaico"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Saavedra"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Temuco"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Teodoro Schmidt"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Toltén"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Traiguén"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Victoria"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Vilcún"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "9",
+            "nom_com": "Villarrica"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "14",
+            "nom_com": "Corral"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "14",
+            "nom_com": "Futrono"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "14",
+            "nom_com": "La Unión"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "14",
+            "nom_com": "Lago Ranco"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "14",
+            "nom_com": "Lanco"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "14",
+            "nom_com": "Los Lagos"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "14",
+            "nom_com": "Mariquina"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "14",
+            "nom_com": "Máfil"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "14",
+            "nom_com": "Paillaco"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "14",
+            "nom_com": "Panguipulli"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "14",
+            "nom_com": "Río Bueno"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "14",
+            "nom_com": "Valdivia"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Ancud"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Calbuco"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Castro"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Chaitén"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Chonchi"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Cochamó"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Curaco de Vélez"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Dalcahue"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Fresia"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Frutillar"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Futaleufú"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Hualaihué"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Llanquihue"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Los Muermos"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Maullín"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Osorno"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Palena"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Puerto Montt"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Puerto Octay"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Puerto Varas"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Puqueldón"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Purranque"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Puyehue"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Queilén"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Quellón"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Quemchi"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Quinchao"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "Río Negro"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "San Juan de la Costa"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "10",
+            "nom_com": "San Pablo"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "11",
+            "nom_com": "Aisén"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "11",
+            "nom_com": "Chile Chico"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "11",
+            "nom_com": "Cisnes"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "11",
+            "nom_com": "Cochrane"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "11",
+            "nom_com": "Coyhaique"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "11",
+            "nom_com": "Guaitecas"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "11",
+            "nom_com": "Lago Verde"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "11",
+            "nom_com": "O’Higgins"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "11",
+            "nom_com": "Río Ibáñez"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "11",
+            "nom_com": "Tortel"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "12",
+            "nom_com": "Antártica"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "12",
+            "nom_com": "Cabo de Hornos (Ex Navarino)"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "12",
+            "nom_com": "Laguna Blanca"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "12",
+            "nom_com": "Natales"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "12",
+            "nom_com": "Porvenir"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "12",
+            "nom_com": "Primavera"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "12",
+            "nom_com": "Punta Arenas"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "12",
+            "nom_com": "Río Verde"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "12",
+            "nom_com": "San Gregorio"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "12",
+            "nom_com": "Timaukel"
+        }
+    },
+    {
+        "model": "acisApi.comuna",
+        "fields": {
+            "reg_id": "12",
+            "nom_com": "Torres del Paine"
+        }
+    }
+]
