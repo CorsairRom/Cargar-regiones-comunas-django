@@ -1,0 +1,1745 @@
+[
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Afganistán",
+            "code": "AF"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Åland",
+            "code": "AX"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Albania",
+            "code": "AL"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Argelia",
+            "code": "DZ"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Samoa Americana",
+            "code": "AS"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Andorra",
+            "code": "AD"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Angola",
+            "code": "AO"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Anguilla",
+            "code": "AI"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Antártida",
+            "code": "AQ"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Antigua y Barbuda",
+            "code": "AG"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Argentina",
+            "code": "AR"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Armenia",
+            "code": "AM"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Aruba",
+            "code": "AW"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Ascensión Island",
+            "code": "AC"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Australia",
+            "code": "AU"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Austria",
+            "code": "AT"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Azerbaiyán",
+            "code": "AZ"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Bahamas",
+            "code": "BS"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Baréin",
+            "code": "BH"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Bangladés",
+            "code": "BD"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Barbados",
+            "code": "BB"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Bielorrusia",
+            "code": "BY"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Bélgica",
+            "code": "BE"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Belice",
+            "code": "BZ"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Benin",
+            "code": "BJ"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Bermudas",
+            "code": "BM"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Bután",
+            "code": "BT"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Bolivia",
+            "code": "BO"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Bonaire, San Eustaquio y Saba",
+            "code": "BQ"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Bosnia y Herzegovina",
+            "code": "BA"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Botsuana",
+            "code": "BW"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Brasil",
+            "code": "BR"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Territorio Británico del Océano Índico",
+            "code": "IO"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Brunéi",
+            "code": "BN"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Bulgaria",
+            "code": "BG"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Burkina Faso",
+            "code": "BF"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Burundi",
+            "code": "BI"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Camboya",
+            "code": "KH"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Camerún",
+            "code": "CM"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Canadá",
+            "code": "CA"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Cabo Verde",
+            "code": "CV"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Islas Caimán",
+            "code": "KY"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "República Centroafricana",
+            "code": "CF"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Chad",
+            "code": "TD"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Chile",
+            "code": "CL"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "China",
+            "code": "CN"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Isla de Navidad",
+            "code": "CX"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Islas Cocos",
+            "code": "CC"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Colombia",
+            "code": "CO"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Comoras",
+            "code": "KM"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Congo",
+            "code": "CG"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Islas Cook",
+            "code": "CK"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Costa Rica",
+            "code": "CR"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Croacia",
+            "code": "HR"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Cuba",
+            "code": "CU"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Curazao",
+            "code": "CW"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Chipre",
+            "code": "CY"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Chequia",
+            "code": "CZ"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Costa de Marfil",
+            "code": "CI"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Dinamarca",
+            "code": "DK"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Yibuti",
+            "code": "DJ"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Dominica",
+            "code": "DM"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "República Dominicana",
+            "code": "DO"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Ecuador",
+            "code": "EC"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Egipto",
+            "code": "EG"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "El Salvador",
+            "code": "SV"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Guinea Ecuatorial",
+            "code": "GQ"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Eritrea",
+            "code": "ER"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Estonia",
+            "code": "EE"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Suazilandia",
+            "code": "SZ"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Etiopía",
+            "code": "ET"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Islas Malvinas",
+            "code": "FK"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Islas Feroe",
+            "code": "FO"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Fiyi",
+            "code": "FJ"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Finlandia",
+            "code": "FI"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Francia",
+            "code": "FR"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Guayana Francesa",
+            "code": "GF"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Polinesia Francesa",
+            "code": "PF"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Territorios Australes Franceses",
+            "code": "TF"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Gabón",
+            "code": "GA"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Gambia",
+            "code": "GM"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Georgia",
+            "code": "GE"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Alemania",
+            "code": "DE"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Ghana",
+            "code": "GH"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Gibraltar",
+            "code": "GI"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Grecia",
+            "code": "GR"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Groenlandia",
+            "code": "GL"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Granada",
+            "code": "GD"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Guadalupe",
+            "code": "GP"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Guam",
+            "code": "GU"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Guatemala",
+            "code": "GT"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Guernsey",
+            "code": "GG"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Guinea",
+            "code": "GN"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Guinea-Bissau",
+            "code": "GW"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Guyana",
+            "code": "GY"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Haití",
+            "code": "HT"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Islas Heard y McDonald",
+            "code": "HM"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Honduras",
+            "code": "HN"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Hong Kong",
+            "code": "HK"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Hungría",
+            "code": "HU"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Islandia",
+            "code": "IS"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "India",
+            "code": "IN"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Indonesia",
+            "code": "ID"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Irán",
+            "code": "IR"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Irak",
+            "code": "IQ"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Irlanda",
+            "code": "IE"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Isla de Man",
+            "code": "IM"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Israel",
+            "code": "IL"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Italia",
+            "code": "IT"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Jamaica",
+            "code": "JM"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Japón",
+            "code": "JP"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Jersey",
+            "code": "JE"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Jordania",
+            "code": "JO"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Kazajistán",
+            "code": "KZ"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Kenia",
+            "code": "KE"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Kiribati",
+            "code": "KI"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Kosovo",
+            "code": "XK"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Kuwait",
+            "code": "KW"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Kirguistán",
+            "code": "KG"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Laos",
+            "code": "LA"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Letonia",
+            "code": "LV"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Líbano",
+            "code": "LB"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Lesoto",
+            "code": "LS"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Liberia",
+            "code": "LR"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Libia",
+            "code": "LY"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Liechtenstein",
+            "code": "LI"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Lituania",
+            "code": "LT"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Luxemburgo",
+            "code": "LU"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Macao",
+            "code": "MO"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Madagascar",
+            "code": "MG"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Malawi",
+            "code": "MW"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Malasia",
+            "code": "MY"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Maldivas",
+            "code": "MV"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Mali",
+            "code": "ML"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Malta",
+            "code": "MT"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Islas Marshall",
+            "code": "MH"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Martinica",
+            "code": "MQ"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Mauritania",
+            "code": "MR"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Mauricio",
+            "code": "MU"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Mayotte",
+            "code": "YT"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "México",
+            "code": "MX"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Micronesia",
+            "code": "FM"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Moldavia",
+            "code": "MD"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Mónaco",
+            "code": "MC"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Mongolia",
+            "code": "MN"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Montenegro",
+            "code": "ME"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Montserrat",
+            "code": "MS"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Marruecos",
+            "code": "MA"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Mozambique",
+            "code": "MZ"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Myanmar",
+            "code": "MM"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Namibia",
+            "code": "NA"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Nauru",
+            "code": "NR"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Nepal",
+            "code": "NP"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Países Bajos",
+            "code": "NL"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Nueva Caledonia",
+            "code": "NC"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Nueva Zelanda",
+            "code": "NZ"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Nicaragua",
+            "code": "NI"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Níger",
+            "code": "NE"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Nigeria",
+            "code": "NG"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Niue",
+            "code": "NU"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Isla Norfolk",
+            "code": "NF"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Corea del Norte",
+            "code": "KP"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Macedonia del Norte",
+            "code": "MK"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Islas Marianas del Norte",
+            "code": "MP"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Noruega",
+            "code": "NO"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Omán",
+            "code": "OM"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Pakistán",
+            "code": "PK"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Palaos",
+            "code": "PW"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Palestina",
+            "code": "PS"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Panamá",
+            "code": "PA"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Papúa Nueva Guinea",
+            "code": "PG"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Paraguay",
+            "code": "PY"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Perú",
+            "code": "PE"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Filipinas",
+            "code": "PH"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Islas Pitcairn",
+            "code": "PN"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Polonia",
+            "code": "PL"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Portugal",
+            "code": "PT"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Puerto Rico",
+            "code": "PR"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Catar",
+            "code": "QA"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Rumania",
+            "code": "RO"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Rusia",
+            "code": "RU"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Ruanda",
+            "code": "RW"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Reunión",
+            "code": "RE"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "San Bartolomé",
+            "code": "BL"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Santa Elena",
+            "code": "SH"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "San Cristóbal y Nieves",
+            "code": "KN"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Santa Lucía",
+            "code": "LC"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "San Martín",
+            "code": "MF"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "San Pedro y Miquelón",
+            "code": "PM"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "San Vicente y las Granadinas",
+            "code": "VC"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Samoa",
+            "code": "WS"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "San Marino",
+            "code": "SM"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Santo Tomé y Príncipe",
+            "code": "ST"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Arabia Saudita",
+            "code": "SA"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Senegal",
+            "code": "SN"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Serbia",
+            "code": "RS"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Seychelles",
+            "code": "SC"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Sierra Leona",
+            "code": "SL"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Singapur",
+            "code": "SG"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Sint Maarten",
+            "code": "SX"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Eslovaquia",
+            "code": "SK"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Eslovenia",
+            "code": "SI"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Islas Salomón",
+            "code": "SB"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Somalia",
+            "code": "SO"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Sudáfrica",
+            "code": "ZA"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Islas Georgias del Sur y Sandwich del Sur",
+            "code": "GS"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Corea del Sur",
+            "code": "KR"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Sudán del Sur",
+            "code": "SS"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "España",
+            "code": "ES"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Sri Lanka",
+            "code": "LK"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Sudán",
+            "code": "SD"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Surinam",
+            "code": "SR"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Svalbard y Jan Mayen",
+            "code": "SJ"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Suecia",
+            "code": "SE"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Suiza",
+            "code": "CH"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Siria",
+            "code": "SY"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Taiwán",
+            "code": "TW"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Tayikistán",
+            "code": "TJ"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Tanzania",
+            "code": "TZ"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Tailandia",
+            "code": "TH"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Timor-Leste",
+            "code": "TL"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Togo",
+            "code": "TG"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Tokelau",
+            "code": "TK"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Tonga",
+            "code": "TO"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Trinidad y Tobago",
+            "code": "TT"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Tristán de Acuña",
+            "code": "TA"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Túnez",
+            "code": "TN"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Turkmenistán",
+            "code": "TM"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Islas Turcas y Caicos",
+            "code": "TC"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Tuvalu",
+            "code": "TV"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Turquía",
+            "code": "TR"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Uganda",
+            "code": "UG"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Ucrania",
+            "code": "UA"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Emiratos Árabes Unidos",
+            "code": "AE"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Reino Unido",
+            "code": "GB"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Estados Unidos",
+            "code": "US"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Uruguay",
+            "code": "UY"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Uzbekistán",
+            "code": "UZ"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Vanuatu",
+            "code": "VU"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Ciudad del Vaticano",
+            "code": "VA"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Venezuela",
+            "code": "VE"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Vietnam",
+            "code": "VN"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Islas Vírgenes Británicas",
+            "code": "VG"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Islas Vírgenes de los Estados Unidos",
+            "code": "VI"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Wallis y Futuna",
+            "code": "WF"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Sahara Occidental",
+            "code": "EH"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Yemen",
+            "code": "YE"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Zambia",
+            "code": "ZM"
+        }
+    },
+    {
+        "model": "acisApi.countries",
+        "fields": {
+            "name": "Zimbabue",
+            "code": "ZW"
+        }
+    }
+]
