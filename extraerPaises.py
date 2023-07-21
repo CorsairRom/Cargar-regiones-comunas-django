@@ -12,7 +12,7 @@ countryDjango = []
 for country in countries['countries']:
     data = {}
     fields = {}
-    data['model'] = 'acisApi.paises'
+    data['model'] = 'acisApi.countries'
     nombre = country['name_es']
     codigo = country['code_2']
     fields['name'] = nombre
